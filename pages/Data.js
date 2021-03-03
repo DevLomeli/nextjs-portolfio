@@ -1,4 +1,3 @@
-import HtmlIcon from "@styled-icons/fa-brands/Html5";
 export const pageData = {
   titlePage: "Fernando Lomelí",
 };
@@ -20,9 +19,7 @@ export const projectOneData = {
   projectDescription:
     "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aut, eaque laborum asperiores aliquam deserunt reprehenderit at, unde, laudantium inventore culpa distinctio odit quisquam reiciendis similique debitis facilis mollitia error nulla.",
   projectImageURL: "/project.jpg",
-  projectIcons: {
-    HtmlIcon,
-  },
+  projectIcons: {},
 };
 
 export const projectTwoData = {
